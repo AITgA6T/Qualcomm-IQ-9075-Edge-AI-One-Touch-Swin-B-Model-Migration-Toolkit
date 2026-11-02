@@ -26,7 +26,7 @@ Evaluated on 500 images of the ImageNet-1K validation set. On-device latency is 
 
 - **Qualcomm AI Runtime (QAIRT) SDK**：v2.44.0.260225
 - **System:** Yocto (Qualcomm Linux)
-- **Host OS:** Ubuntu 20.04 / 22.04 / 24.04
+- **Host OS:** Ubuntu 22.04
 
 ## Background & Solution
 
